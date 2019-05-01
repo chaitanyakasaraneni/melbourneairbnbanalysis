@@ -1,6 +1,6 @@
 # Melbourne AIRBNB OPEN DATA ANALYSIS
 
-In this Project, we are going to explore the Airbnb data of Boston which includes 3 files:
+In this Project, we are going to explore the Airbnb data of Melbourne which includes 3 files:
  - listings.csv
  - calendar.csv
  - reviews.csv
