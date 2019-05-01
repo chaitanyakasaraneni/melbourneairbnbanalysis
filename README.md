@@ -5,6 +5,6 @@ In this Project, we are going to explore the Airbnb data of Melbourne which incl
  - calendar.csv
  - reviews.csv
  
-**listings.csv** consists of details of all the listings in Boston including their price, accomodates, ratings, number of reviews, summary, name, owner name, Description, host Id and many other columns decribing details of listings.<br>
-**calendar.csv** consists of details of listings and its availability and its price.<br>
-**reviews.csv** consits of reveiws for each listing in Boston.<br>
+**listings.csv:** consists of details of all the listings in Melbourne including their price, accommodates, ratings, number of reviews, summary, name, owner name, Description, host Id and many other columns describing details of listings. <br>
+**calendar.csv:** calendar.csv consists of details of listings and its availability and its price.<br>
+**reviews.csv:*** reviews.csv consists of reviews for each listing in Melbourne.<br>
