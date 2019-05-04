@@ -1,5 +1,8 @@
 # Melbourne AIRBNB OPEN DATA ANALYSIS
-![austalia](https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/images/melb.PNG "Melbourne")
+<p align="center">
+  <img width="460" height="300" src="https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/images/melb.PNG">
+</p>
+
 <br>
 In this Project, we are going to explore the Airbnb data of Melbourne which includes 3 files:<br>
  - listings.csv<br>
