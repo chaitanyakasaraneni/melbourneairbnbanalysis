@@ -1,6 +1,6 @@
 # Melbourne AIRBNB OPEN DATA ANALYSIS
 <p align="center">
-  <img width="460" height="300" src="https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/images/melb.PNG">
+  <img src="https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/images/melb.PNG">
 </p>
 
 <br>
