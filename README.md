@@ -21,3 +21,10 @@ We did the project as 2 phases:
     - [Analysis on the Seasonal Pattern of Prices](https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/Analysis/Analysis%20-%203.ipynb)
     - [Analysis of reviews and their relationship with the prices](https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/Analysis/Analysis%20-%204%20.ipynb)
     - [Host analysis and recommendation for prices](https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/Analysis/Analysis%20-%205.ipynb)
+
+### Technologies/Libraries Used
+ - pandas
+ - scikit-lean
+ Additional libraries for visualization:
+ - pyLDA library
+ - Bokeh JS 
