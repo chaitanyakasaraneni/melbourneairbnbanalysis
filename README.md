@@ -24,7 +24,7 @@ We did the project as 2 phases:
 
 ### Technologies/Libraries Used
  - pandas
- - scikit-lean
+ - scikit-lean<br>
  Additional libraries for visualization:
  - pyLDA library
  - Bokeh JS 
