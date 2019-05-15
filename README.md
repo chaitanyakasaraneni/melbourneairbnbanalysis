@@ -23,8 +23,11 @@ We did the project as 2 phases:
     - [Host analysis and recommendation for prices](https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/Analysis/Analysis%20-%205.ipynb)
 
 ### Technologies/Libraries Used
- - pandas
- - scikit-lean<br>
- Additional libraries for visualization:
+- Python 3
+  - pandas
+  - scikit-lean
+- Jupyter Notebook
+<br>
+Additional libraries for visualization:
  - pyLDA library
  - Bokeh JS 
