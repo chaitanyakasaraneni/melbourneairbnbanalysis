@@ -28,7 +28,7 @@ We did the project as 2 phases:
   - scikit-lean
 - Jupyter Notebook
 <br>
-Additional libraries for visualization:<br>
+Additional libraries for visualization:
  - pyLDA library
  - Bokeh JS 
 You can install the above packages using pip:
