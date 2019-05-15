@@ -26,10 +26,11 @@ We did the project as 2 phases:
 - Python 3
   - pandas
   - scikit-lean
-- Jupyter Notebook <br>
-Additional libraries for visualization:
+- Jupyter Notebook 
+#### Additional libraries for visualization:
  - pyLDA library
  - Bokeh JS 
+#### Installation
 You can install the above packages using pip:
 ```
 pip install pandas
