@@ -27,7 +27,6 @@ We did the project as 2 phases:
   - pandas
   - scikit-lean
 - Jupyter Notebook
-<br>
 Additional libraries for visualization:
  - pyLDA library
  - Bokeh JS 
