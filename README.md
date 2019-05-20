@@ -38,3 +38,4 @@ pip install -U scikit-learn
 pip install bokeh
 pip install pyldavis
 ```
+<b> Note: </b> In the Analysis to recommend the users on where to invest a property in Melbourne, please fill your own Google API key near the api_key variable.
