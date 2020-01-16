@@ -13,9 +13,9 @@ In this Project, we are going to explore the Airbnb data of Melbourne which incl
 **calendar.csv:** calendar.csv consists of details of listings and its availability and its price. This file contains 526,414 rowsx6 columns i.e. 3,158,484 values.<br>
 **reviews.csv:*** reviews.csv consists of reviews for each listing in Melbourne. This file contains 1,048,575 rows x 7 columns i.e. 7,340,025 values.<br>
 
-We did the project as 2 phases:
-- Phase-1: [Predicting the Yield using NLP](https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/Analysis/Calculating_yield_compliment.ipynb)
-- Phase-2: Analysis and Visualization of the data.
+We did the project as 2 parts:
+- Part-1: [Predicting the Yield using NLP](https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/Analysis/Calculating_yield_compliment.ipynb)
+- Part-2: Analysis and Visualization of the data.
     - [Analysis of the factors that affect the prices of listings](https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/Analysis/Analysis%20-%201.ipynb)
     - [Analysis to recommend the users on where to invest a property in Melbourne](https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/Analysis/Analysis%20-%202.ipynb)
     - [Analysis on the Seasonal Pattern of Prices](https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/Analysis/Analysis%20-%203.ipynb)
