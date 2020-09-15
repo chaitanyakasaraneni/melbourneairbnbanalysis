@@ -1,4 +1,4 @@
-# Melbourne AIRBNB OPEN DATA ANALYSIS
+# Analysis on Melbourne AirBnB Open Data 
 <p align="center">
   <img src="https://github.com/chaitanyakasaraneni/melbourneairbnbanalysis/blob/master/images/melb.PNG">
 </p>
